@@ -17,7 +17,3 @@
 </p>
 <!-- Cloud -->
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
